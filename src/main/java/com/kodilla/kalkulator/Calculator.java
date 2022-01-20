@@ -16,5 +16,6 @@ public class Calculator {
         double resultMinus=calculator.substraction(3,1);
         System.out.println("Sum result is: "+ resultPlus);
         System.out.println("Substraction result is: "+ resultMinus);
+        System.out.println("testowa linia");
     }
 }
